@@ -1,0 +1,26 @@
+body {
+  height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #d1f1ef;
+}
+
+#project {
+  background-color: #d1f1ef;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
+  transition: 0.5s ease-in;
+}
+
+footer a:hover {
+  color: black;
+}
